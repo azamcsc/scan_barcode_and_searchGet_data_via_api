@@ -1,6 +1,7 @@
 # bmf_scanner_v1
 
 A new Flutter application.
+##Project ini adalah untuk buat carian status keluaran produk
 
 ## Getting Started
 
