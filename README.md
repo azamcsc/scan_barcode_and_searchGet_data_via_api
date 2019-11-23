@@ -5,6 +5,9 @@ A new Flutter application.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+-tukarkan url api
+-import db bmf_scanner.sql
+-import jgk api.php ke hosting
 
 A few resources to get you started if this is your first Flutter project:
 
